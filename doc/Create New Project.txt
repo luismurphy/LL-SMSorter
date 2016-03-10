@@ -1,0 +1,22 @@
+Create New Project
+	RTL, create source "gate_and", VHDL, no IP, ZC702
+	In Module Wizard, select ports, and behavioral architecture
+Add AND process to architecture
+Tools > Create and Package IP, Actual project, .xci
+Package IP > Review and Package > Package IP
+Create Block diagram
+Add IP, your_IP
+Right click ports, make external, change port names
+Validate (in top toolbar)
+Run Synthesis
+Open Synthesized Design
+Sources miniwindow, Design Sources > Diagram.bd, Rightclick, Create HDL wrapper, let vivado auto update
+IP Integrator, Run Synthesis
+Synthesis, I/O Ports, Reload Synthesis outdated
+Set sites according to board reference manual
+Set I/O Std LVCMOS33
+Set Pull type as pulldown for input and keeper for output
+Save Constraints (xdc)
+Implementation > Run Implementation, Generate bitstream
+Program and debug > hardware manager > Open target > Autoconnect
+Program device
