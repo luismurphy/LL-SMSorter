@@ -1,0 +1,23 @@
+Vivado Simulator 2015.2
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.2/bin/unwrapped/win64.o/xelab.exe -wto f57c254d562946659885a41585853087 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot controller_tb_behav xil_defaultlib.controller_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.math_real
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_signed
+Compiling package xil_defaultlib.merge_sorter_pkg
+Compiling architecture cont_fsm of entity xil_defaultlib.controller [controller_default]
+Compiling architecture behavioral of entity xil_defaultlib.processing_module [processing_module_default]
+Compiling architecture behavioral of entity xil_defaultlib.Array8 [array8_default]
+Compiling architecture behavioral of entity xil_defaultlib.controller_tb
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot controller_tb_behav

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="controller_tb_behav2.wdb" id="1">
+         <top_modules>
+            <top_module name="controller_tb" />
+            <top_module name="merge_sorter_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="7" />
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_CLK" type="logic">
+      <obj_property name="ElementShortName">S_CLK</obj_property>
+      <obj_property name="ObjectShortName">S_CLK</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_MEM_ADDR" type="array">
+      <obj_property name="ElementShortName">S_MEM_ADDR[11:0]</obj_property>
+      <obj_property name="ObjectShortName">S_MEM_ADDR[11:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_MEM_WE" type="logic">
+      <obj_property name="ElementShortName">S_MEM_WE</obj_property>
+      <obj_property name="ObjectShortName">S_MEM_WE</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider44">
+      <obj_property name="label">Div</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#FFFFFF</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_TO_ARRAY" type="array">
+      <obj_property name="ElementShortName">S_TO_ARRAY[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_TO_ARRAY[31:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_FIXED</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">99.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_HOLD</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_FROM_ARRAY" type="array">
+      <obj_property name="ElementShortName">S_FROM_ARRAY[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_FROM_ARRAY[31:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_HOLD</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_MEM_ENABLE" type="logic">
+      <obj_property name="ElementShortName">S_MEM_ENABLE</obj_property>
+      <obj_property name="ObjectShortName">S_MEM_ENABLE</obj_property>
+   </wvobject>
+</wave_config>

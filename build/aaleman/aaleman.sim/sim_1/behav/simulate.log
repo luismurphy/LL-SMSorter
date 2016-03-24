@@ -1,0 +1,541 @@
+Vivado Simulator 2015.2
+Time resolution is 1 ps
+Note: FILL STATE
+Time: 0 ps  Iteration: 0  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: FILL STATE
+Time: 0 ps  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 3
+Time: 500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 5
+Time: 500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 1 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 1500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 1500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 2
+Time: 1500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 2 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 2500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 2500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 2500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 20
+Time: 2500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 3 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 3500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 3500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 3500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 3500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 76
+Time: 3500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 4 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 4500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 4500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 4500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 4500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 4500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 85
+Time: 4500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 5 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 5500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 5500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 5500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 5500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 5500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 99
+Time: 5500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 6 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 6500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 6500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 6500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 6500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 6500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 40
+Time: 6500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 7 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 7500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 7500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 7500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 7500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 7500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 24
+Time: 7500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 8 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 8500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 8500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 8500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 8500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 8500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 60
+Time: 8500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 9 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 9500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 9500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 9500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 6
+Time: 9500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 9500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 7
+Time: 9500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 10 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 10500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 6
+Time: 10500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 10500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 24
+Time: 10500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 11 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 11500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 11500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 4
+Time: 11500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 11500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 64
+Time: 11500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 12 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 12500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 12500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 12500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 83
+Time: 12500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 13 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 13500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 13500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 13500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 13500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 54
+Time: 13500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 14 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 14500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 14500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 14500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 14500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 14500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 54
+Time: 14500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 15 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 15500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 15500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 15500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 15500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 15500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 47
+Time: 15500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 16 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 16500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 16500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 16500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 16500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 49
+Time: 16500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 17 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 17500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 17500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 17500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 87
+Time: 17500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 18 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 18500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 18500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 20
+Time: 18500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 19 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: data from memory: 31
+Time: 19500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 20 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 3
+Time: 20500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 62
+Time: 20500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 21 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 21500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 21500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 63
+Time: 21500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 22 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 22500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 22500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 22500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 69
+Time: 22500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 23 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 23500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 23500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 23500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 23500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 78
+Time: 23500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 24 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 24500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 24500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 24500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 24500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 24500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 17
+Time: 24500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 25 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 25500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 25500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 25500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 25500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 25500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 34
+Time: 25500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 26 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 26500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 26500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 26500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 26500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 26500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 81
+Time: 26500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 27 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 27500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 27500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 27500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 4
+Time: 27500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 27500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 81
+Time: 27500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 28 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 28500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 28500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 28500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 50
+Time: 28500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 29 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 29500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 29500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 29500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 29500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 91
+Time: 29500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 30 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 30500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 30500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 4
+Time: 30500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 30500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 30500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 7
+Time: 30500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 31 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 31500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 31500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 31500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 4
+Time: 31500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 31500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 19
+Time: 31500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 32 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 32500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 32500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 32500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 32500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 81
+Time: 32500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 33 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 33500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 33500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 33500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 33500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 33500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 91
+Time: 33500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 34 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 34500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 34500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 34500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 34500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 34500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 25
+Time: 34500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 35 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 35500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 35500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 35500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 35500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 35500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 76
+Time: 35500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 36 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 36500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 36500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 36500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 36500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 19
+Time: 36500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 37 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 37500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 37500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 37500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 70
+Time: 37500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 38 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 38500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 38500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 40
+Time: 38500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: EMPTY STATE
+Time: 39 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: data from memory: 58
+Time: 39500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 40 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 3
+Time: 40500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 40
+Time: 40500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 41 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 41500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 41500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 75
+Time: 41500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 42 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 42500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 42500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 42500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 45
+Time: 42500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 43 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 43500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 43500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 43500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 43500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 9
+Time: 43500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 44 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 44500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 44500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 44500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 44500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 44500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 79
+Time: 44500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 45 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 45500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 45500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 45500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 45500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 3
+Time: 45500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 91
+Time: 45500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 46 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case 7
+Time: 46500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(0)\/pm1/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 46500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(1)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 7
+Time: 46500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(2)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 6
+Time: 46500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(3)\/pm_middle/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: Case 2
+Time: 46500 ps  Iteration: 1  Process: /controller_tb/sys_array/\pm_array(4)\/pm7/pm/line__26  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd
+Note: data from memory: 10
+Time: 46500 ps  Iteration: 1  Process: /controller_tb/line__74  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd
+Note: FILL STATE
+Time: 47 ns  Iteration: 2  Process: /controller_tb/uut/comb_proc  File: C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd
+Note: Case

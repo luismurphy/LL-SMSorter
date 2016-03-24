@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="controller_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="controller_tb" />
+            <top_module name="merge_sorter_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_CLK" type="logic">
+      <obj_property name="ElementShortName">S_CLK</obj_property>
+      <obj_property name="ObjectShortName">S_CLK</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_DATA_FROM_MEM" type="array">
+      <obj_property name="ElementShortName">S_DATA_FROM_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_DATA_FROM_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_DATA_TO_MEM" type="array">
+      <obj_property name="ElementShortName">S_DATA_TO_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_DATA_TO_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_MEM_ADDR" type="array">
+      <obj_property name="ElementShortName">S_MEM_ADDR[29:0]</obj_property>
+      <obj_property name="ObjectShortName">S_MEM_ADDR[29:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_MEM_ENABLE" type="logic">
+      <obj_property name="ElementShortName">S_MEM_ENABLE</obj_property>
+      <obj_property name="ObjectShortName">S_MEM_ENABLE</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_MEM_WE" type="logic">
+      <obj_property name="ElementShortName">S_MEM_WE</obj_property>
+      <obj_property name="ObjectShortName">S_MEM_WE</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_TO_ARRAY" type="array">
+      <obj_property name="ElementShortName">S_TO_ARRAY[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_TO_ARRAY[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_FROM_ARRAY" type="array">
+      <obj_property name="ElementShortName">S_FROM_ARRAY[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S_FROM_ARRAY[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/S_SEND_TO_OUT" type="logic">
+      <obj_property name="ElementShortName">S_SEND_TO_OUT</obj_property>
+      <obj_property name="ObjectShortName">S_SEND_TO_OUT</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/uut/PS" type="other">
+      <obj_property name="ElementShortName">PS</obj_property>
+      <obj_property name="ObjectShortName">PS</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/controller_tb/uut/NS" type="other">
+      <obj_property name="ElementShortName">NS</obj_property>
+      <obj_property name="ObjectShortName">NS</obj_property>
+   </wvobject>
+</wave_config>

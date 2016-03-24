@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../../src/merge_sorter_pkg.vhd"
+vhdl xil_defaultlib  "../../../../../src/processing_module.vhd"
+vhdl xil_defaultlib  "../../../../../src/controller.vhd"
+vhdl xil_defaultlib  "../../../../../src/Array8.vhd"
+vhdl xil_defaultlib  "../../../../../sim/controller_tb.vhd"
+
+# Do not sort compile order
+nosort

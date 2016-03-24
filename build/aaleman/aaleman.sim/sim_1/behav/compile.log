@@ -1,0 +1,9 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/merge_sorter_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/processing_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity processing_module
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity controller
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/src/Array8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Array8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Aleman/Documents/1UPR-Mayaguez/Merge Sorter/LL-SMSorter/sim/controller_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity controller_tb
